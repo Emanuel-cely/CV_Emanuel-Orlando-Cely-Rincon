@@ -8,7 +8,7 @@ Sitio web estático de una sola página que funciona como CV y portafolio profes
 
 | Recurso | URL |
 |---|---|
-| 🌐 Sitio web en Azure | `https://cv-emanuelcely.azurewebsites.net` |
+| 🌐 Sitio web en Azure | `https` |
 
 ---
 
