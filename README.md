@@ -8,7 +8,9 @@ Sitio web estático de una sola página que funciona como CV y portafolio profes
 
 | Recurso | URL |
 |---|---|
-| 🌐 Sitio web en Azure | `https` |
+|  Repositorio GitHub | `https://github.com/Emanuel-cely/CV_Emanuel-Orlando-Cely-Rincon` |
+| 🌐 Sitio web en Azure | `https://cv-emanuelcely-eab4ewcbgeg2hydw.canadacentral-01.azurewebsites.net/` |
+|  Page de GitHub | `https://emanuel-cely.github.io/CV_Emanuel-Orlando-Cely-Rincon/` |
 
 ---
 
